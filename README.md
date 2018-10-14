@@ -1,4 +1,4 @@
-# AI_Team_Project
+# Genesis AI/NLP Team Project
 For Kaggle competition: https://www.kaggle.com/c/text-normalization-challenge-english-language/data
 
 ## 2018.10.14 Minutes of Meeting
