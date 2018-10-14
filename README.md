@@ -10,3 +10,4 @@ For Kaggle competition: https://www.kaggle.com/c/text-normalization-challenge-en
   
 3. We will run the model on Steven/Simon's computer
 4. We use python
+5. Next Meeting: 20th Oct Sat 4 p.m. 
