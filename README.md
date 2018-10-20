@@ -27,8 +27,8 @@ to be added...
 
 
 ## 2018.10.20 Minutes of Meeting
-1. Temporary goal : To increase the accuracy in the test data provided in kaggle's english text normalization competition                                   (en_test_2.csv). 
-                    The current accuracy of said data set is roughly 92%.
+1. Temporary goal : To increase the accuracy in the test data provided in kaggle's english text normalization competition                                   (en_test_2.csv).</br> 
+                    The current accuracy of said data set is roughly 92%.</br> 
 2. Data types that we want to focus to change for now : Integers and date. So if the data is '2', change it to 'two'.
 3. One proposed method to identify whether character or set of characters needs to be changed : 
                                 - Create a vocabulary
