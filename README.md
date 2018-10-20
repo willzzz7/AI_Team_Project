@@ -40,17 +40,17 @@ to be added...
                                         . -> 0 0 0 1 0 0</br> 
                                         * -> 0 0 0 0 1 0</br> 
                                         2 -> 0 0 0 0 0 1</br> 
-                                        each character is assigned values</br> 
+                                        each character is assigned values</br> </br> 
                                  - Possible Alternative way: Using the ASCII code for to give each characters values</br> 
                                  - Figuring out if a character is a number or a text or any other data types.</br> 
-                                          - proposal #1 -> giving datas that needs to be changed(like numbers, dates, etc)
+                                         @emsp;  - proposal #1 -> giving datas that needs to be changed(like numbers, dates, etc)
                                                            a pattern in their values.</br> 
-                                          - proposal #2 -> Make three arrays : alphabets, numbers and punctuations.</br>  Then input in these
+                                         @emsp;  - proposal #2 -> Make three arrays : alphabets, numbers and punctuations.</br>  Then input in these
                                                            arrays values of each character, alphabet value into alphabet array, so on.</br> 
                                                            Then when the program is checking a word, compare the character with the
                                                            elements of the arrays to know the character's data types. </br> 
 4. Summary of Steven's alternative method on identifying which characters need to change :</br> 
-                                 - Have each word(not character) assigned different values</br> 
-                                 - put part of the values into arrays</br> 
-                                 - Let program learn the patterns</br> 
+                               @emsp;   - Have each word(not character) assigned different values</br> 
+                               @emsp;   - put part of the values into arrays</br> 
+                               @emsp;   - Let program learn the patterns</br> 
                                  
